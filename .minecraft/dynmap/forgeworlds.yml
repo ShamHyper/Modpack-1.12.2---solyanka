@@ -1,0 +1,60 @@
+%YAML 1.1
+---
+worlds:
+-   sealevel: 63
+    nether: false
+    name: Космоказич
+    the_end: false
+    title: Космоказич/overworld
+    height: 256
+-   sealevel: 63
+    nether: false
+    name: DIM-11
+    the_end: false
+    title: Космоказич/Storage Cell
+    height: 256
+-   sealevel: 65
+    nether: false
+    name: DIM-9999
+    the_end: false
+    title: Космоказич/ExtraUtils2_Quarry_Dim
+    height: 256
+-   sealevel: 63
+    nether: false
+    name: DIM-11325
+    the_end: false
+    title: Космоказич/Deep Dark
+    height: 256
+-   sealevel: 63
+    nether: false
+    name: DIM1
+    the_end: true
+    title: Космоказич/the_end
+    height: 256
+-   sealevel: 63
+    nether: false
+    name: DIM-27
+    the_end: false
+    title: Космоказич/Space Station
+    height: 256
+-   sealevel: 63
+    nether: true
+    name: DIM-1
+    the_end: false
+    title: Космоказич/the_nether
+    height: 256
+-   sealevel: 63
+    nether: false
+    name: DIM-1007
+    the_end: false
+    title: Космоказич/planet.ceres
+    height: 256
+-   sealevel: 63
+    nether: false
+    name: NEKOSMOKAZICH
+    the_end: false
+    title: NEKOSMOKAZICH/overworld
+    height: 256
+isMCPC: false
+useSaveFolderAsName: true
+maxWorldHeight: 256

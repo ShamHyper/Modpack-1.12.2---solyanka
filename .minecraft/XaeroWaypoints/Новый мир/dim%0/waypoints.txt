@@ -1,0 +1,6 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:global
+#
+waypoint:Дом:Д:-2039:80:-3389:6:false:0:gui.xaero_default:false:0:false
+waypoint:Шахты:Ш:317:42:482:9:false:0:gui.xaero_default:false:0:false
+waypoint:Железная жила:Ж:302:40:445:6:false:0:gui.xaero_default:false:0:false

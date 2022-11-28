@@ -1,0 +1,196 @@
+{
+  "entries": [
+    {
+      "item": "botania:manaresource|2",
+      "emc": 100000
+    },
+    {
+      "item": "minecraft:baked_potato|0",
+      "emc": 100000
+    },
+    {
+      "item": "botania:manaresource|16",
+      "emc": 1000
+    },
+    {
+      "item": "botania:manaresource|0",
+      "emc": 500
+    },
+    {
+      "item": "botania:livingwood|0",
+      "emc": 200
+    },
+    {
+      "item": "botania:specialflower|0",
+      "emc": 200
+    },
+    {
+      "item": "botania:petal|10",
+      "emc": 200
+    },
+    {
+      "item": "botania:petal|0",
+      "emc": 200
+    },
+    {
+      "item": "botania:petal|3",
+      "emc": 200
+    },
+    {
+      "item": "botania:petal|9",
+      "emc": 200
+    },
+    {
+      "item": "botania:petal|4",
+      "emc": 200
+    },
+    {
+      "item": "botania:petal|13",
+      "emc": 200
+    },
+    {
+      "item": "botania:petal|12",
+      "emc": 200
+    },
+    {
+      "item": "botania:petal|7",
+      "emc": 200
+    },
+    {
+      "item": "botania:petal|8",
+      "emc": 200
+    },
+    {
+      "item": "botania:petal|15",
+      "emc": 200
+    },
+    {
+      "item": "botania:petal|6",
+      "emc": 200
+    },
+    {
+      "item": "botania:petal|2",
+      "emc": 200
+    },
+    {
+      "item": "botania:petal|5",
+      "emc": 200
+    },
+    {
+      "item": "botania:mushroom|7",
+      "emc": 200
+    },
+    {
+      "item": "botania:mushroom|5",
+      "emc": 200
+    },
+    {
+      "item": "botania:mushroom|12",
+      "emc": 200
+    },
+    {
+      "item": "botania:manaresource|1",
+      "emc": 200
+    },
+    {
+      "item": "botania:petal|14",
+      "emc": 200
+    },
+    {
+      "item": "botania:petal|1",
+      "emc": 200
+    },
+    {
+      "item": "botania:petal|11",
+      "emc": 200
+    },
+    {
+      "item": "botania:manaresource|4",
+      "emc": 2000000
+    },
+    {
+      "item": "botania:manaresource|18",
+      "emc": 2000
+    },
+    {
+      "item": "minecraft:blaze_powder|0",
+      "emc": 200
+    },
+    {
+      "item": "botania:livingrock|0",
+      "emc": 500
+    },
+    {
+      "item": "botania:pool|1",
+      "emc": 500
+    },
+    {
+      "item": "minecraft:skull|1",
+      "emc": 500
+    },
+    {
+      "item": "forestry:apatite|0",
+      "emc": 6024
+    },
+    {
+      "item": "futuremc:sweet_berries|0",
+      "emc": 126024
+    },
+    {
+      "item": "shamhypersantimaterials:antijiud12|0",
+      "emc": 924451729
+    },
+    {
+      "item": "minecraft:nether_star|0",
+      "emc": 100000
+    },
+    {
+      "item": "appliedenergistics2:material|1",
+      "emc": 1024
+    },
+    {
+      "item": "draconicevolution:draconium_ingot|0",
+      "emc": 412
+    },
+    {
+      "item": "thermalfoundation:material|893",
+      "emc": 9814126
+    },
+    {
+      "item": "thermaldynamics:duct_0|5",
+      "emc": 10000
+    },
+    {
+      "item": "draconicevolution:draconic_block|0",
+      "emc": 1000000
+    },
+    {
+      "item": "minecraft:glass_pane|0",
+      "emc": 1
+    },
+    {
+      "item": "ic2:rubber_wood|0",
+      "emc": 24
+    },
+    {
+      "item": "harvestcraft:queenbeeitem|0",
+      "emc": 128
+    },
+    {
+      "item": "quark:crab_shell|0",
+      "emc": 1
+    },
+    {
+      "item": "quark:tallow|0",
+      "emc": 128
+    },
+    {
+      "item": "crypto:coin|0",
+      "emc": 916
+    },
+    {
+      "item": "projecte:item.pe_transmutation_tablet|0",
+      "emc": 916
+    }
+  ]
+}
